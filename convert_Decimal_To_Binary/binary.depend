@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709738133 source:c:\users\developer\desktop\all\courses\bootcamp\c\binary\main.c
+	<stdio.h>
+	<stdlib.h>
+
