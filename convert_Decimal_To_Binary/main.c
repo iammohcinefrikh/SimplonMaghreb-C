@@ -3,7 +3,7 @@
 
 int main()
 {
-    int inputNum,i= 0 ;
+    int inputNum ;
 
     printf("Enter your decimal number:");
 
